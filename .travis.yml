@@ -1,0 +1,17 @@
+language: python
+python:
+  - "3.9"
+install:
+  - pip install numpy
+  - pip install pyyaml
+  - pip install coverage
+  - pip install coveralls
+# command to run tests
+script:
+  - coverage run -m unittest discover tests && coverage report -m
+
+branches:
+  only:
+    - master
+after_success:
+  coveralls
