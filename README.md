@@ -1,5 +1,7 @@
 # Stats Calculator
 
+[![Build Status](https://travis-ci.com/jaylakhani14/statcalc.svg?branch=master)](https://travis-ci.com/jaylakhani14/statcalc)
+
 ### Team Members
 * Jay Lakhani 
 * Austin Lee 
