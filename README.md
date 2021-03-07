@@ -56,8 +56,27 @@
             </ul>
     </ul>
   <li>Populating Sampling Functions</li>
-  <li>Descriptive Statistics Functions</li>
-  <li>Helper Functions</li>
+    <ul>
+        <li>Description: Computing statistical functions using numpy </li>
+            <ol>
+                <li>Simple random sampling</li>
+                <li>Confidence Interval For a Sample</li>
+                <li>Margin of Error</li>
+                <li>Cochran’s Sample Size Formula</li>
+                <li>How to Find a Sample Size Given a Confidence Interval and Width (unknown population standard deviation)</li>
+            </ol>
+        <li>Use functions</li>
+            <ul>
+                <li><code>.sample()</code> to choose sample/multiple items from a Python list, set, and dictionary.</li>
+                <li><code>scipy.stats.t.interval()</code> to find the confidence interval of a sample statistic</li>
+                <li><code></code></li>
+                <li><code></code></li>
+                <li><code></code></li>
+            </ul>
+    </ul>
+    <li>Descriptive Statistics Functions</li>
+    
+<li>Helper Functions</li>
 </ul>
 
 | To do | In progress |  Review  | Done | 
@@ -66,3 +85,8 @@
 |  |  |  |  |
 |  |  |  |  | 
 |  |  |  |  |
+
+<!-- Undordered List -->
+
+### Resources
+* https://pynative.com/python-random-sample/
