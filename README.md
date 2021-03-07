@@ -8,17 +8,27 @@
 
 ### Outline
 * Stats Calculator
-    * Properties
-    * Operations
-        * Addition
-        * Subtraction
-        * Multiplication
-        * Division
-        * Square
-        * Square Root
-    * Random Generator Function
-    * Population Sampling Functions
-    * Descriptive Statistics Functions
+    1. Properties
+    2. Math Operations
+        * Addition - Calls addition static method
+        * Subtraction - Calls subtraction static method
+        * Multiplication - Calls multiplication static method
+        * Division - Calls division static method
+        * Square - Calls square static method
+        * Square Root - Calls square root static method
+    3. Random Generator
+        * listPick Methods
+            * return random choice
+            * use seed
+            * use RandomGenerator.randNum to generate list
+    4. Population Sampling Functions
+        * randomSampling
+        * confidenceInterval
+        * marginOfError
+        * cochranFormula
+        * sampleSize
+    5. Descriptive Statistics Functions
+        
 
 ### Breakdown of Tasks
 * Random Generator Function
@@ -39,7 +49,7 @@
         * <code>.choice()</code> for randomly selected element 
           
 * Populating Sampling Functions
-    * Description: Computing statistical functions using numpy
+    * Description: Computing statistical functions using statistics module
     * Tasks 
         * [x] Simple random sampling
         * [x] Confidence Interval For a Sample 
@@ -79,3 +89,7 @@
 
 ### Resources
 * https://pynative.com/python-random-sample/
+* https://www.kite.com/python/answers/how-to-compute-the-confidence-interval-of-a-sample-statistic-in-python  
+* https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html
+* https://numpy.org/doc/stable/reference/generated/numpy.std.html
+* https://numpy.org/doc/stable/reference/generated/numpy.var.html
