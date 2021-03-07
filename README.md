@@ -31,6 +31,16 @@
   </ul>
 </ul>
 
+<h3>Breakdown of Tasks</h3>
+<ul>
+  <li>Random Generator Function</li>
+  <li>Populating Sampling Functions</li>
+  <li>Descriptive Statistics Functions</li>
+  <li>Helper Functions</li>
+  <li>Random Number Generator</li>
+</ul>
+
+
 | To do | In progress |  Review  | Done | 
 | ---  | ----------- |  ------- | ---- |
 | example | example | example |  example | 
