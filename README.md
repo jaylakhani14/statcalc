@@ -6,28 +6,21 @@
 * Sidharth Vemuri 
 * Franklin Tan
 
-<h3>Outline</h3>
-<ul>
-  <li>Stats Calculator</li>
-  <ul>
-    <li>Properties</li>
-    <li>Operations</li>
-      <ul>
-        <li>Addition</li>
-        <li>Subtraction</li>
-        <li>Multiplication</li>
-        <li>Division</li>
-        <li>Square</li>
-        <li>Square Root</li>
-      </ul>
-    <li>Random Generator Function</li>
-      <ul>
-        <li></li>
-      </ul>
-    <li>Population Sampling Functions</li>
-    <li>Descriptive Statistics Functions</li>
-  </ul>
-</ul>
+### Outline
+* Stats Calculator
+  
+    * Properties
+    * Operations
+        * Addition
+        * Subtraction
+        * Multiplication
+        * Division
+        * Square
+        * Square Root
+    * Random Generator Function
+    * Population Sampling Functions
+    * Descriptive Statistics Functions
+ 
 
 <h3>Breakdown of Tasks</h3>
 <ul>
