@@ -1,6 +1,6 @@
 import statistics
 
-class Mode:
+class std:
 
     @staticmethod
     def std(num):
