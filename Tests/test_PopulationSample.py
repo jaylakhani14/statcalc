@@ -1,6 +1,10 @@
 import unittest
 
+import numpy as np
+import scipy
+
 from PopulationSampling.simpleRandom import Sample
+from PopulationSampling.confidence import Confidence
 
 class MyTestCase(unittest.TestCase):
     def test_simple_random_sample(self):
