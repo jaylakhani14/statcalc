@@ -1,6 +1,6 @@
 import statistics
 
-class std:
+class Std:
 
     @staticmethod
     def std(num):
