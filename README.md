@@ -76,14 +76,6 @@
             * <code>np.var()</code>
             * <code>np.std()</code>
             * <code>.stats.zscore</code> Make sure to <code>from scipy import stats</code>
-    
-
-| To do | In progress |  Review  | Done | 
-| ---  | ----------- |  ------- | ---- |
-| example | example | example |  example | 
-|  |  |  |  |
-|  |  |  |  | 
-|  |  |  |  |
 
 <!-- Undordered List -->
 
