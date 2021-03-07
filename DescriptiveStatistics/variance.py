@@ -1,6 +1,6 @@
 import statistics
 
-class Mode:
+class Variance:
 
     @staticmethod
     def variance(num):
