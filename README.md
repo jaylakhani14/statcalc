@@ -5,6 +5,7 @@
   <li>Jay Lakhani</li>
   <li>Austin Lee</li>
   <li>Sidharth Vemuri</li>
+  <li>Franklin Tan </li>
 </ul>
 
 <h3>Outline</h3>
