@@ -1,12 +1,10 @@
-<h1>Stats Calculator</h1>
+# Stats Calculator
 
-<h3>Team Members</h3>
-<ul>
-  <li>Jay Lakhani</li>
-  <li>Austin Lee</li>
-  <li>Sidharth Vemuri</li>
-  <li>Franklin Tan </li>
-</ul>
+### Team Members
+* Jay Lakhani 
+* Austin Lee 
+* Sidharth Vemuri 
+* Franklin Tan
 
 <h3>Outline</h3>
 <ul>
