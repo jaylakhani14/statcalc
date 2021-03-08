@@ -1,12 +1,14 @@
 # Stats Calculator
 
-## Contributors
-* [Jay Lakhani](https://github.com/jaylakhani14) 
-* [Austin Lee](https://github.com/lustinaee) 
-* Sidharth Vemuri 
-* [Franklin Tan](https://github.com/fjt7)
+[![Build Status](https://travis-ci.com/jaylakhani14/statcalc.svg?branch=master)](https://travis-ci.com/jaylakhani14/statcalc)
 
-## Outline
+### Team Members
+* Jay Lakhani 
+* Austin Lee 
+* Sidharth Vemuri 
+* Franklin Tan
+
+### Outline
 * Stats Calculator
     1. Properties
     2. Math Operations
@@ -30,7 +32,7 @@
     5. Descriptive Statistics Functions
         
 
-## Breakdown of Tasks
+### Breakdown of Tasks
 * Random Generator Function
     * Description: The random module uses the seed value as a base to generate a random number. if seed value is not present it takes system current time.
     * Tasks 
@@ -76,18 +78,10 @@
             * <code>np.var()</code>
             * <code>np.std()</code>
             * <code>.stats.zscore</code> Make sure to <code>from scipy import stats</code>
-    
-
-| To do | In progress |  Review  | Done | 
-| ---  | ----------- |  ------- | ---- |
-| example | example | example |  example | 
-|  |  |  |  |
-|  |  |  |  | 
-|  |  |  |  |
 
 <!-- Undordered List -->
 
-## Resources
+### Resources
 * https://pynative.com/python-random-sample/
 * https://www.kite.com/python/answers/how-to-compute-the-confidence-interval-of-a-sample-statistic-in-python  
 * https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html
