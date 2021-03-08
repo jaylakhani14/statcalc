@@ -4,7 +4,7 @@
 
 ### Team Members
 * [Jay Lakhani](https://github.com/jaylakhani14)
-* [Austin Lee] (https://github.com/lustinaee)
+* [Austin Lee](https://github.com/lustinaee)
 * [Sidharth Vemuri]() 
 * [Franklin Tan](https://github.com/fjt7)
 
