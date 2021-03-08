@@ -4,5 +4,6 @@ import random
 class Sample:
 
     @staticmethod
-    def sample(sequence, k):
-        print(random.sample(sequence, k))
+    def simpRandSamp(seed, nums, data):
+        random.seed(seed)
+        return ListPick.listPickListSeed(seed, nums, data)
