@@ -25,7 +25,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(2, Multiplication.multiplication(1, 2))
 
     def test_MathOperations_division(self):
-        self.assertEqual(2, Division.quotient(10, 5))
+        self.assertEqual(2, quotient(10, 5))
 
     def test_MathOperations_exponent(self):
         self.assertEqual(16,Exponent.power(4,2))

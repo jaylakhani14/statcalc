@@ -24,7 +24,7 @@ class Calculator:
         return self.Result
 
     def Divide(self, a, b):
-        self.Result = Division.quotient(a, b)
+        self.Result = quotient(a, b)
         return self.Result
 
     def Root(self, a):
