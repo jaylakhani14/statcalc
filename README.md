@@ -3,10 +3,10 @@
 [![Build Status](https://travis-ci.com/jaylakhani14/statcalc.svg?branch=master)](https://travis-ci.com/jaylakhani14/statcalc)
 
 ### Team Members
-* Jay Lakhani 
-* Austin Lee 
-* Sidharth Vemuri 
-* Franklin Tan
+* [Jay Lakhani](https://github.com/jaylakhani14)
+* [Austin Lee] (https://github.com/lustinaee)
+* [Sidharth Vemuri]() 
+* [Franklin Tan](https://github.com/fjt7)
 
 ### Outline
 * Stats Calculator
