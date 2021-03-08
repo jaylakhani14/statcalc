@@ -1,6 +1,7 @@
 # Stats Calculator
 
 [![Build Status](https://travis-ci.com/jaylakhani14/statcalc.svg?branch=master)](https://travis-ci.com/jaylakhani14/statcalc)
+[![Coverage Status](https://coveralls.io/repos/github/jaylakhani14/statcalc/badge.svg?branch=master)](https://coveralls.io/github/jaylakhani14/statcalc?branch=master)
 
 ### Team Members
 * [Jay Lakhani](https://github.com/jaylakhani14)
