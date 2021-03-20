@@ -15,10 +15,3 @@ script:
       - main
   after_success:
     coveralls
-
-
-branches:
-  only:
-    - master
-after_success:
-  coveralls
