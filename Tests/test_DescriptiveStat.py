@@ -5,7 +5,7 @@ from DescriptiveStatistics.mean import Mean
 from DescriptiveStatistics.median import Median
 from DescriptiveStatistics.mode import Mode
 from DescriptiveStatistics.variance import Variance
-from DescriptiveStatistics.std import Stddev
+from DescriptiveStatistics.std import Std
 from DescriptiveStatistics.zscore import Zscore
 
 
