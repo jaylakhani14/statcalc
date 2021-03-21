@@ -1,9 +1,8 @@
 import random
 
 
-class Sample:
+class Sampling:
 
     @staticmethod
-    def simpRandSamp(seed, nums, data):
-        random.seed(seed)
-        return ListPick.listPickListSeed(seed, nums, data)
+    def simple(sequence, k):
+        return random.sample(sequence, k)
