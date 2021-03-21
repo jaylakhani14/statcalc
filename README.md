@@ -80,7 +80,7 @@
             * <code>np.std()</code>
             * <code>.stats.zscore</code> Make sure to <code>from scipy import stats</code>
 
-<!-- Undordered List -->
+
 
 ### Resources
 * https://pynative.com/python-random-sample/
