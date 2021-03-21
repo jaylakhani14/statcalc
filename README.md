@@ -80,7 +80,10 @@
             * <code>np.std()</code>
             * <code>.stats.zscore</code> Make sure to <code>from scipy import stats</code>
 
-
+### Feedback from Professor
+* Travis Build
+* Remove Print Statements
+* Complete other methods
 
 ### Resources
 * https://pynative.com/python-random-sample/
