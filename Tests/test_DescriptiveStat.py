@@ -33,7 +33,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(2, Variance.variance(self.test))
 
     def test_stddev(self):
-        self.assertEqual(1.5811388300841898, Stddev.stddev(self.test))
+        self.assertEqual(1.5811388300841898, Std.stdev(self.test))
         
     def test_zscore(self):
         self.assertEqual(Zscore.zscore(self.test3)
