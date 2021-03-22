@@ -10,4 +10,5 @@ class Confidence:
         df = degrees_freedom
         s = sample_mean
         sstde = sample_standard_error
-        print(scipy.stats.t.interval(c, df, s, sstde))
+        print(scipy.stats.t.interval(c, df, s, sstde)
+              
