@@ -1,15 +1,15 @@
-from DescriptiveStatictics.zsc import Zsc
-from PopulationSampling.marginOfError import MarginOfError
-from DescriptiveStatictics.stddev import Stddev
-from MathOperations.exponent import Exponent
+from DescriptiveStatictics.zscore import zscore
+from PopulationSampling.marginoferror import marginoferror
+from DescriptiveStatictics.std import std
+from MathOperations.exponent import exponent
 
 
 class KnownSampleSize:
     @staticmethod
     def knownSamplesize(seed, data):
-        z = Zsc.zsc(seed, data)
-        Mar = MarginOfError.marginOfError(seed, data)
-        StDe = Stddev.stddev(data)
-        value = (z * StDe) / Mar
+        z = Zsc.zscore(seed, data)
+        Mar = MarginOfError.marginoferror(seed, data)
+        Std = Stddev.std(data)
+        value = (z * Std) / Mar
         sam = Exponent.power(value, 2)
         return sam
