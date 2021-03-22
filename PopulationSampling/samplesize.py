@@ -11,5 +11,5 @@ class sampleSize:
         Margin = marginoferror.marginoferror(seed, data)
         Std = Std.std(data)
         value = (z * Std) / Margin
-        ss = exponent.power(value, 2)
-        return ss
+        Ss = exponent.power(value, 2)
+        return Ss
