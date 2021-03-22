@@ -4,7 +4,7 @@ from DescriptiveStatictics.std import std
 from MathOperations.exponent import exponent
 
 
-class KnownSampleSize:
+class knownSamp:
     @staticmethod
     def knownSamplesize(seed, data):
         z = Zsc.zscore(seed, data)
