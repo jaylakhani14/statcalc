@@ -34,7 +34,9 @@ class MyTestCase(unittest.TestCase):
 
     def test_stddev(self):
         self.assertEqual(1.5811388300841898, Stddev.stddev(self.test))
-
+        
+    def test_zscore(self):
+        self.assertEqual(Zscore.zscore(self.test3)
 
 
 if __name__ == '__main__':
